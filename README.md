@@ -1,4 +1,5 @@
-Teniu les plantilles per poder confeccionar una làmpada geòdesica amb PVC transparent i leds
+Teniu les plantilles per poder confeccionar una làmpada geòdesica amb PVC transparent i leds.
+Podeu veure el video a Youtube del seu muntatge. https://www.youtube.com/watch?v=GpzE_jPZHb4
 
 
 Enllaç per descarregar-vos les plantilles
